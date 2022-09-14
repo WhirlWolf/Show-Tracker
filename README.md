@@ -8,7 +8,7 @@
 
 <b>First release :</b> 30 May 2022<br><br>
 
-<b>Track any show</b> (including anime) & get push notification whenever new episode is available!<br><br>
+<b>Track any show</b> (including anime) & get notification whenever new episode is available!<br><br>
 
 
 <b>Note :</b> This project is NOT in any way officially related to https://next-episode.net and requires [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm).<br><br><br>
@@ -16,7 +16,7 @@
 
 <h2>HOW TO USE</h2>
 
-Run <b>Add Show</b> & follow on screen instructions.
+Run <b>Add Show</b> task & follow on screen instructions.
 
 That's all.<br><br><br>
 
