@@ -8,7 +8,7 @@
 
 <b>First release :</b> 30 May 2022<br><br>
 
-<b>Track any show</b> [including anime] & get push notification whenever new episode is available!<br><br>
+<b>Track any show</b> (including anime) & get push notification whenever new episode is available!<br><br>
 
 
 <b>Note :</b> This project is NOT in any way officially related to https://next-episode.net and requires [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm).<br><br><br>
@@ -22,17 +22,17 @@ That's all.<br><br><br>
 
 <h2>HOW IT WORKS </h2>
 
-Once you have added show, it will notify you of next episode (if it's releasing in next 24 hours) and automatically set reminder. You can then check details of it using notification.<br><br><br>
+Once you have added show, it will notify you of next episode (whenever it's releasing in next 24 hours) and automatically set reminder. You can then check details of the episode through notification.<br><br><br>
 
 <h2>FEATURES</h2>
 
-<b>1. Track :</b> Any show ( Anime, TV Show, Netflix Show, etc ) available on https://next-episode.net<br><br>
+<b>1. Track :</b> Any show ( Anime, TV Show, etc ) available on https://next-episode.net<br><br>
 
-<i>Note : This project is completely based on this website, source link included in scene.</i><br><br>
+<i>Note : This project is completely based on this website, source link for show being tracked embedded in scene.</i><br><br>
 
 <b>2. Reminder : </b>Few hours before release of new episode & within 1 hour of exact release time.<br><br>
 
-<b>3. Countdown : </b>Check it in scene.<br><br>
+<b>3. Countdown : </b>Through scene.<br><br>
 
 <i>Tip 1 : Tap : To see release date & vice versa.</i><br><br>
 
