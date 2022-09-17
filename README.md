@@ -2,7 +2,7 @@
 
 <h1>🦊</h2>
 
-<h2><u>Project by <b><font color="red">WhirlWolf</font></b></u></h2><br>
+<h2><u>Tasker project</u></h2><br>
 
 <b>Latest Version :</b> 1.2<br><br>
 
@@ -11,18 +11,16 @@
 <b>Track any show</b> (including anime) & get notification whenever new episode is available!<br><br>
 
 
-<b>Note :</b> This project is NOT in any way officially related to https://next-episode.net and requires [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm).<br><br><br>
+<b>Note :</b> This project uses the https://next-episode.net but is not endorsed or certified by same. And requires [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm).<br><br><br>
 
 
 <h2>HOW TO USE</h2>
 
-Run <b>Add Show</b> task & follow on screen instructions.
-
-That's all.<br><br><br>
+Run <b>Add Show</b> task & follow on screen instructions.<br><br><br>
 
 <h2>HOW IT WORKS </h2>
 
-Once you have added show, it will notify you of next episode (whenever it's releasing in next 24 hours) and automatically set reminder. You can then check details of the episode through notification.<br><br><br>
+Once a show is added, it will notify of next episode (if it's releasing in next 24 hours) and set reminder. Check details of the episode through notification.<br><br><br>
 
 <h2>FEATURES</h2>
 
