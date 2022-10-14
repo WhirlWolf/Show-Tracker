@@ -4,7 +4,7 @@
 
 <h2><u>Tasker project</u></h2><br>
 
-<b>Latest Version :</b> 1.2<br><br>
+<b>Latest Version :</b> 1.4<br><br>
 
 <b>First release :</b> 30 May 2022<br><br>
 
