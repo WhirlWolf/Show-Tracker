@@ -32,7 +32,7 @@ Once a show is added, it will notify of next episode (if it's releasing in next 
 
 <b>3. Reminder : </b>Few hours before release of new episode & within 1 hour of exact release time.<br><br>
 
-<b>4. Countdown : </b>Through scene.<br><br>
+<b>4. Countdown : </b>Accessible through scene.<br><br>
 
 <i>Tip 1 : Tap : To see release date & vice versa.</i><br><br>
 
