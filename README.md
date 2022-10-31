@@ -48,7 +48,7 @@ Once a show is added, it will notify of next episode (if it's releasing in next 
 
 <b>✅<s>1. Multi Tracking : </b>Only 1 show can be tracked at a time.</s><br><br>
 
-<b>1. Download : </b>No download option.<br><br><br>
+<b>2. Download : </b>No download option.<br><br><br>
 
 <h2>CREDITS</h2>
 
