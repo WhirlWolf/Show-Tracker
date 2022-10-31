@@ -4,11 +4,13 @@
 
 <h2><u>TASKER PROJECT</u></h2><br>
 
-<b>Latest Version :</b> 2.0<br><br>
+<b>Latest Version :</b> 2.1<br><br>
+
+<b>Updated :</b> 31 Oct. 2022<br><br>
 
 <b>First release :</b> 30 May 2022<br><br>
 
-<b>Track any show/s</b> (including anime) & get notification whenever new episode is available!<br><br>
+<b>Track any show</b> (including anime) & get notification whenever new episode is available!<br><br>
 
 
 <b>Note :</b> This project uses the https://next-episode.net but not in any way endorsed or certified.<br><br>And requires [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm).<br><br><br>
