@@ -1,22 +1,24 @@
-# Show-Tracker
+## Show-Tracker [Tasker Project]
 
 <h1>🦊</h2>
 
-<h2><u>TASKER PROJECT</u></h2><br>
 
-Tasker: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm <br>
 
 Latest Version: 3.0<br>
 
 Updated: 02 June, 2023<br>
 
-Released: 30 May 2022<br><br>
+Released: 30 May, 2022<br><br>
+
+
 
 Track any show including anime & get notified whenever a new episode is available!<br><br>
 
+Tasker: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm <br><br>
+
 <b>Disclaimer :</b> This project is not in any way endorsed or certified by https://next-episode.net.<br><br><br>
 
-<h2>HOW TO USE</h2>
+<h2hh2>HOW TO USE</h2>
 
 Run <b>ST - Configure</b> task & follow on screen instructions.<br><br>
 
