@@ -24,7 +24,7 @@ Show tracker scrapes https://next-episode.net.<br><br>
 
 Organizes information added by you.<br><br>
 
-Notifies about new episode episode and sets reminder.
+Notifies about new episode and sets reminder.
 
 <br>
 
