@@ -8,6 +8,8 @@ Released: 30 May, 2022<br><br>
 
 Track any show including anime & get notified whenever a new episode is available!<br><br>
 
+Import: https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3AShow+Tracker <br><br>
+
 Tasker: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm <br><br>
 
 <b>Disclaimer :</b> This project is not in any way endorsed or certified by https://next-episode.net.<br><br>
