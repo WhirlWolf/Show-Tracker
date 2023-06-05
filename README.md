@@ -2,9 +2,7 @@
 
 <h1>🦊</h1>
 
-Latest Version: 3.0<br>
 
-Updated: 02 June, 2023<br>
 
 Released: 30 May, 2022<br><br>
 
