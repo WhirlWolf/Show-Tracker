@@ -10,7 +10,8 @@ Track any show including anime & get notified whenever a new episode is availabl
 
 Import: https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3AShow+Tracker <br><br>
 
-Tasker: https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm <br><br>
+Tasker (Required):
+https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm <br><br>
 
 <b>Disclaimer :</b> This project is not in any way endorsed or certified by https://next-episode.net.<br><br>
 
@@ -20,25 +21,22 @@ Run <b>ST - Configure</b> task & follow on screen instructions.<br><br>
 
 <h4>HOW IT WORKS </h4>
 
-Show tracker scrapes https://next-episode.net.<br><br>
+It scrapes https://next-episode.net.<br>
 
-Organizes information added by you.<br><br>
+Organizes information added by you.<br>
 
-Notifies about new episode and sets reminder.
-
-<br>
-
-You can also check details of the episode through notification.<br><br>
+Notifies and set reminder for new episode.
+<br><br>
 
 <h4>FEATURES</h4>
 
-<b>Track :</b> Almost any show available on https://next-episode.net.<br><br>
+<b>Track :</b> Almost every show available on https://next-episode.net.<br><br>
 
-<i>Note : This project is completely based on above mentioned website, source of each show will be linked in scene.</i><br><br>
+<i>Note : This project is completely based on website as mentioned above and therefore source of each show will be linked in scene as a credit.</i><br><br>
 
 <b>Multi Tracking :</b> Track any number of shows simultaneously.<br><br>
 
-<b>Reminder : </b>Get notified few hours before & within 1 hour of exact release time.<br><br>
+<b>Reminder : </b>Get notified few hours before & within 1 hour of episode release time.<br><br>
 
 <b>Countdown : </b>To next episode release.<br><br>
 
