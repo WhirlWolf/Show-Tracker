@@ -1,7 +1,5 @@
 ## Show Tracker [Tasker Project]
 
-<h1>🦊</h1>
-
 Released: 30 May, 2022<br><br>
 
 Track any show including anime & get notified whenever a new episode is available!<br><br>
