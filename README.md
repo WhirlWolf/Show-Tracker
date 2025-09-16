@@ -13,7 +13,7 @@ Released: May 30, 2022
 ## 🚀 Highlights
 - **Track & organize** unlimited shows (anime included).  
 - **Smart notifications** — alerts before and at release time, auto-adjusted to your timezone.  
-- **Episode info & countdowns** — see upcoming and previous episode details with timers.  
+- **Episode info & countdowns** — see upcoming and previous episode details.  
 - **Privacy-first & lightweight** — fully local, powered only by Tasker + TVMaze API.  
 
 ## 🛠 Installation
@@ -28,7 +28,7 @@ Released: May 30, 2022
 
 | Setup | Shows | Notification |
 |---|---|---|
-| ![Setup](screenshots/screenshot1.png) <br/>*Guided onboarding* | ![Shows](screenshots/screenshot2.png) <br/>*Track your library* | ![Notify](screenshots/screenshot3.png) <br/>*Episode reminders* |
+| ![Setup](screenshots/screenshot1.png) <br/>Setup | ![Shows](screenshots/screenshot2.png) <br/>Shows | ![Notify](screenshots/screenshot3.png) <br/>Alerts |
 
 ## Troubleshooting
 - **No notifications?**  
