@@ -10,47 +10,26 @@ Easily track your favorite shows, including anime, and get notified when new epi
 
 
 ## 🚀 Features
-- Track **any show**, including anime.  
-- Get **real-time notifications** when new episodes air.  
-- Built-in **reminder system** to create hype before release.  
-- Clean and organized storage of show & episode details.  
+- **Track & Organize**  
+  Add and manage any number of shows, including anime.  
+
+- **Smart Notifications**  
+  Get alerts a few hours before and at the exact release time, adjusted to your timezone.  
+
+- **Episode Details**  
+  Countdown to the next episode and access info for both next and previous episode.  
+
+- **Lightweight & Private**  
+  Runs fully inside Tasker — no external apps required.  
 
 
-## 🛠 How to Use
+## 🛠 Setup
 1. Import the project into Tasker.  
 2. Run the **`ST - Project Setup`** task.  
-3. Follow the on-screen setup instructions. 
-
+3. Follow the on-screen instructions.  
 
 
 ## 📸 Screenshots
-
 | Setup Screen | Show List | Notifications |
 |--------------|-----------|---------------|
 | ![Setup](screenshots/screenshot1.png) | ![List](screenshots/screenshot2.png) | ![Notification](screenshots/screenshot3.png) |
-
-
-
-## 🔎 Extra Features
-- Track any number of shows simultaneously.  
-- Get notified a few hours before & at the episode release time.  
-- Countdown to next episode release.  
-- Access basic information of the next & previous episodes anytime.  
-
-
-## 📸 Screenshots  
-
-| Setup Screen | Show List | Notifications |
-|--------------|-----------|---------------|
-| ![Setup](screenshots/screenshot1.png) | ![List](screenshots/screenshot2.png) | ![Notification](screenshots/screenshot3.png) |
-
-
-## FEATURES
-
-- Track any number of shows simultaneously.<br>
-
-- Get notified few hours before & at the exact episode release time in your timezone.<br>
-
-- Countdown to next episode release.<br>
-
-- Next & previous episode's basic information accessible anytime.
