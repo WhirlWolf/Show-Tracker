@@ -32,10 +32,15 @@ Released: May 30, 2022
 
 ## Troubleshooting
 - **No notifications?**  
-  Check Tasker’s notification access and battery optimization settings.  
+  Check Tasker’s notification access and battery optimization settings.
+  
+## FAQ
+**Q: Can I download episodes?**  
+A: No.
 
 ## 🤝 Contributing
 Small, focused contributions are welcome.  
+
 
 ---
 
