@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Show Tracker" width="100%"/>
 </p>
 
-# 📺 Show Tracker
-A tasker project to get notifications for new show and anime episodes.
+# Show Tracker
+A tasker project to track shows for new episodes.
 
 Released: May 30, 2022
 
