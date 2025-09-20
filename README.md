@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Show Tracker" width="100%"/>
+  <img src="assets/banner.svg" alt="Show Tracker" width="50%"/>
 </p>
 
 # Show Tracker
