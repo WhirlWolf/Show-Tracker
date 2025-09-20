@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 200 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 200 200">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#1a1f22;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#2a3338;stop-opacity:1" />
     </linearGradient>
   </defs>
-
   <circle cx="100" cy="100" r="100" fill="url(#bgGrad)" />
-
   <text x="50%" y="50%" font-size="90" font-family="Segoe UI Emoji, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">
     📺
   </text>
