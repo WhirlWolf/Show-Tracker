@@ -3,7 +3,7 @@
 </p>
 
 # Show Tracker
-A tasker project to track shows for new episodes.
+A tasker project to track new episodes.
 
 Released: May 30, 2022
 
