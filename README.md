@@ -32,9 +32,9 @@ Released: May 30, 2022
 
 
 ## 📝 Credits
-* Show data: [TV Maze](https://www.tvmaze.com/)
-* Providers: [TMDB](https://www.themoviedb.org/)
-
+* [TV Maze](https://www.tvmaze.com/): Show data
+* [TMDB](https://www.themoviedb.org/): Providers
+* [@anuraag488](https://github.com/anuraag488): Advanced notification
 
 
 ## ❓ FAQ
