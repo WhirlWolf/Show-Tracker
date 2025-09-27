@@ -15,7 +15,7 @@ Released: May 30, 2022
 ## 🚀 Get Started
 1.  **Install Tasker** from the Google Play Store.
 2.  Click the **"Import Taskernet"** badge above.
-3.  Follow the in-app setup to add your shows.
+3.  Follow the setup instructions to add your shows.
 
 > 💡 **Tip:** For reliable notifications, ensure tasker has notification permission and is excluded from battery optimizations.
 
@@ -35,6 +35,7 @@ Released: May 30, 2022
 * [TV Maze](https://www.tvmaze.com/): Show data
 * [TMDB](https://www.themoviedb.org/): Providers
 * [anuraag488](https://github.com/anuraag488): Advanced notification
+* [Mr_G0OD](https://t.me/@Mr_G0OD): Testing
 
 
 ## ❓ FAQ
