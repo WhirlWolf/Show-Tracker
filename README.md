@@ -27,7 +27,7 @@ Released: May 30, 2022
 
 | Setup | Shows | Notification |
 |---|---|---|
-| ![Setup](screenshots/screenshot1.png) <br/> Initial Setup | ![Shows](screenshots/screenshot2.png) <br/> Show List | ![Notify](screenshots/screenshot3.png) <br/> New Episode Alert |
+| ![Search matches](docs/images/search_matches.png) <br/> Search matches | ![Show info](docs/images/show_info.png) <br/> Show info | ![Reminder](docs/images/reminder.png) <br/> Reminder |
 
 
 ## 📝 Credits
