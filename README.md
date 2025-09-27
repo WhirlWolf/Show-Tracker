@@ -25,9 +25,40 @@ Released: May 30, 2022
 
 ## 📸 Screenshots
 
-| Setup | Shows | Notification |
-|---|---|---|
-| ![Search matches](docs/images/search_matches.png) <br/> Search matches | ![Show info](docs/images/show_info.png) <br/> Show info | ![Reminder](docs/images/reminder.png) <br/> Reminder |
+<table width="100%">
+  <tr>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/search_matches.png" alt="Search matches" width="96"><br><sub>Search matches</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/show_info.png" alt="Show info" width="96"><br><sub>Show info</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/reminder.png" alt="Reminder" width="96"><br><sub>Reminder</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/reminder_collapsed.png" alt="Reminder (collapsed)" width="96"><br><sub>Reminder (collapsed)</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/providers.png" alt="Providers" width="96"><br><sub>Providers</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/next_episode_info.png" alt="Next episode info" width="96"><br><sub>Next episode info</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/episode_summary.png" alt="Episode summary" width="96"><br><sub>Episode summary</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/widget.png" alt="Widget" width="96"><br><sub>Widget</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/widget_resized.png" alt="Widget (resized)" width="96"><br><sub>Widget (resized)</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
+      <img src="docs/images/manage_shows.png" alt="Manage shows" width="96"><br><sub>Manage shows</sub>
+    </td>
+  </tr>
+</table>
 
 
 ## 📝 Credits
