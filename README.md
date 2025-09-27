@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="assets/banner.svg" alt="Show Tracker" width="50%"/>
 </p>
@@ -9,7 +10,7 @@ Released: May 30, 2022
 
 [![Import](https://img.shields.io/badge/Import-Taskernet-orange)](https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3AShow+Tracker) 
 [![Tasker](https://img.shields.io/badge/Requires-Tasker-blue)](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) 
-
+</div>
 
 ## 🚀 Get Started
 1.  **Install Tasker** from the Google Play Store.
