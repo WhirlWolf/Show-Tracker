@@ -14,7 +14,7 @@ Released: May 30, 2022
 
 ## 🚀 Get Started
 1.  **Install Tasker** from the Google Play Store.
-2.  Click the **"Import Taskernet"** badge above.
+2.  Click the **Import Taskernet** badge above.
 3.  Follow the setup instructions to add your shows.
 
 > 💡 **Tip:** For reliable notifications, ensure tasker has notification permission and is excluded from battery optimizations.
