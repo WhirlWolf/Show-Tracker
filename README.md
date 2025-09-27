@@ -56,6 +56,9 @@ Released: May 30, 2022
       <img src="docs/images/widget_resized.png" alt="Widget (resized)" width="96"><br><sub>Widget (resized)</sub>
     </td>
     <td width="10%" align="center" valign="top">
+      <img src="docs/images/list_md3_mrgood_whirlwolf.png" alt="Widget (list)" width="96"><br><sub>Widget (list)</sub>
+    </td>
+    <td width="10%" align="center" valign="top">
       <img src="docs/images/manage_shows.png" alt="Manage shows" width="96"><br><sub>Manage shows</sub>
     </td>
   </tr>
