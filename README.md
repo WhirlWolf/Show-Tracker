@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="assets/banner.svg" alt="Show Tracker" width="50%"/>
+  <img src="assets/banner.svg" alt="Show Tracker" width="40%"/>
 </p>
 
 # Show Tracker
@@ -74,10 +74,14 @@ Released: May 30, 2022
 
 ## ❓ FAQ
 * **Why am I not getting notifications?**<br>
-Check Tasker's battery optimization and notification access settings.
+Check tasker's battery optimization and notification access settings.
 * **Can I download episodes?**<br>
 No, this project is for tracking and notifications only.
 
 
 ## 🤝 Contributing
 Found a bug or have an idea? Open an issue!
+
+<a href="https://ko-fi.com/whirlwolf" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee" width="150"/>
+</a>
