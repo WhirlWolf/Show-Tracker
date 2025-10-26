@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="assets/banner.svg" alt="Show Tracker" width="40%"/>
+  <img src="assets/banner.svg" alt="Show Tracker" width="50%"/>
 </p>
 
 # Show Tracker
@@ -80,7 +80,9 @@ No, this project is for tracking and notifications only.
 
 
 ## 🤝 Contributing
-Found a bug or have an idea? Open an issue!
+Found a bug or have an idea? [Open an issue](https://github.com/WhirlWolf/Show-Tracker/issues)!
+
+---
 
 <a href="https://ko-fi.com/whirlwolf" target="_blank">
   <img src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee" width="150"/>
