@@ -19,7 +19,7 @@ Released: May 30, 2022
 2.  Click the **Import Taskernet** badge above.
 3.  Follow the setup instructions to add your shows.
 
-> 💡 **Tip:** For reliable notifications, ensure tasker has notification permission and is excluded from battery optimizations.
+> 💡 Tip: Exclude tasker from battery optimizations.
 
 ## ✨ Features
 * **Automatic Tracking**: Automatically checks for new episodes.
