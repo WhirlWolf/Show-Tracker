@@ -12,7 +12,9 @@ Released: May 30, 2022
 [![Tasker](https://img.shields.io/badge/Requires-Tasker-blue)](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) 
 </div>
 
-## 🚀 Get Started
+---
+
+## 📲 Get Started
 1.  **Install Tasker** from the Google Play Store.
 2.  Click the **Import Taskernet** badge above.
 3.  Follow the setup instructions to add your shows.
